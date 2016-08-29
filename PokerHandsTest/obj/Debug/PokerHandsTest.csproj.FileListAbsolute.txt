@@ -1,0 +1,7 @@
+c:\users\max\documents\visual studio 2013\Projects\PokerHands\PokerHandsTest\bin\Debug\PokerHandsTest.dll
+c:\users\max\documents\visual studio 2013\Projects\PokerHands\PokerHandsTest\bin\Debug\PokerHandsTest.pdb
+c:\users\max\documents\visual studio 2013\Projects\PokerHands\PokerHandsTest\bin\Debug\PokerHands.exe
+c:\users\max\documents\visual studio 2013\Projects\PokerHands\PokerHandsTest\bin\Debug\PokerHands.pdb
+c:\users\max\documents\visual studio 2013\Projects\PokerHands\PokerHandsTest\obj\Debug\PokerHandsTest.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2013\Projects\PokerHands\PokerHandsTest\obj\Debug\PokerHandsTest.dll
+c:\users\max\documents\visual studio 2013\Projects\PokerHands\PokerHandsTest\obj\Debug\PokerHandsTest.pdb
