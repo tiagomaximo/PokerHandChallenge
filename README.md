@@ -1,4 +1,4 @@
-# PokerHand Challenge using C#
+# PokerHand Challenge using C Shacrp
 
 Implement a library (in the programming language of your choice) which evaluates who are the
 
